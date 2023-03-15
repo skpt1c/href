@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+	body 
+	{
+		background-image: url('anthrax.gif');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+	}
+	.content
+	{
+		max-width: 960px;
+		margin: auto;
+	}
+	.container
+	{
+		text-align: center;
+	}
+	.wrapper
+	{
+		width: 1000px;
+		padding: 5px;
+		border: 5px solid red;
+	}
+	.a
+	{
+		font-size: 150px;
+		
+	}
+	.b
+	{
+		font-size: 45px;
+	}
+	.c
+	{
+		font-size: 25px;
+	}
+	.button
+	{
+		display: block;
+		width: 115px;
+		height: 25px;
+		background: #FF0000;
+		padding: 10px;
+		text-align: center;
+		border-radius: 5px;
+		font-color: black;
+		font-weight: bold;
+		font-size: 24px;
+		line-height: 25px;
+		text-decoration: none;
+	}
+	.right-align
+	{
+		float: right;
+	}
+	.left-align
+	{
+		float: left;
+	}
+</style>
+</head>
+<body style = "background-color: #000000; color: white;">
+<div class = "content">
+<div class = "container">
+<div class = "wrapper">
+<div>
+	<a href = "metallica.html" class = "button right-align"> Metallica </a>
+	<a href = "slayer.html" class = "button left-align"> Slayer </a>
+</div>
+<div class = "a"> 
+<img src = "anthrax.png": height = "250px": width = "500px"> <br>
+</div>
+<div class = "b">
+Anthrax is an American heavy metal band from New <br>
+York City, formed in 1981 by rhythm guitarist Scott <br> 
+Ian and bassist Dan Lilker. The group is considered <br>
+one of the leaders of the thrash metal scene from <br>
+the 1980s and is part of the "Big Four" of the genre, <br> 
+along with Metallica, Megadeth and Slayer. <p>
+</div>
+<div class = "c">
+Current Lineup <br>
+Joey Belladonna - Vocals <br>
+Scott Ian - Guitar <br>
+Jon Donais - Guitar <br>
+Frank Bello - Bass <br>
+Charlie Benante - Drums
+</div>
+</body>
+</html>
